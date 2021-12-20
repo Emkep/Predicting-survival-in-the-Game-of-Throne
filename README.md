@@ -8,4 +8,8 @@ Random Forest Training Accuracy: 0.7995<br>
 Random Forest Testing  Accuracy: 0.8462<br>
 Random Forest Train-Test Gap   : 0.0467<br>
 Random Forest AUC Score        : 0.7328<br><br>
-The important features to predict as to whether a Character will be alive or not are ‘popularity, ‘surname_Targaryen’, ‘culture_Valyrian’, and ‘book4_A_Feast_For_Crows’.
+
+The important features to predict as to whether a Character will be alive or not are ‘popularity, ‘surname_Targaryen’, ‘culture_Valyrian’, and ‘book4_A_Feast_For_Crows’.<br>
+
+<b>Acknowledgment:</b><br>
+Prof. Chase Custerer, Faculty of Data Analytics, Hult International Business School
